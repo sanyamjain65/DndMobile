@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/statusbar"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btn_back"
+            android:layout_width="34dp"
+            android:layout_height="match_parent"
+            android:layout_margin="6dp"
+            android:layout_weight="0.18"
+            android:background="@drawable/backbtn"
+            android:onClick="click"
+            android:scaleType="fitCenter"
+            android:text="Button" />
+
+        <TextView
+            android:id="@+id/TitletextView"
+            style="@style/ButtonBar"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.73"
+            android:gravity="center_horizontal"
+            android:text="Block List"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/btn_option"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:background="@drawable/listview"
+            android:onClick="click"
+            android:paddingTop="3dp" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/android:list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout1" >
+    </ListView>
+
+    <TextView
+        android:id="@android:id/empty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="List Is Empty" />
+
+</RelativeLayout>

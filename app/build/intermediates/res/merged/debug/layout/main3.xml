@@ -1,0 +1,94 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_vertical|clip_horizontal"
+    android:layout_marginLeft="30dp"
+    android:gravity="top" >
+
+    <ImageView
+        android:id="@+id/add_to_block"
+        android:layout_width="60dp"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="161dp"
+        android:layout_marginLeft="50dp"
+        android:clickable="true"
+        android:onClick="click"
+        android:paddingTop="25dp"
+        android:src="@drawable/add_to_block_selector" />
+
+    <ImageView
+        android:id="@+id/block_list"
+        android:layout_width="50dp"
+        android:layout_height="100dp"
+        android:layout_alignBottom="@+id/add_to_block"
+        android:layout_alignLeft="@+id/add_to_block"
+        android:layout_alignRight="@+id/add_to_block"
+        android:layout_marginBottom="58dp"
+        android:clickable="true"
+        android:onClick="click"
+        android:paddingRight="5dp"
+        android:src="@drawable/view_list_selector" />
+
+    <ImageView
+        android:id="@+id/profile"
+        android:layout_width="80dp"
+        android:layout_height="100dp"
+        android:layout_alignBottom="@+id/block_list"
+        android:layout_alignLeft="@+id/add_to_block"
+        android:layout_marginBottom="22dp"
+        android:layout_marginLeft="39dp"
+        android:clickable="true"
+        android:onClick="click"
+        android:paddingBottom="1dp"
+        android:src="@drawable/schedule_profile_selector" />
+
+    <ImageView
+        android:id="@+id/send_message"
+        android:layout_width="60dp"
+        android:layout_height="100dp"
+        android:layout_alignTop="@+id/block_list"
+        android:layout_marginLeft="42dp"
+        android:layout_toRightOf="@+id/add_to_block"
+        android:clickable="true"
+        android:onClick="click"
+        android:paddingLeft="1dp"
+        android:src="@drawable/schedulesms_select" />
+
+    <ImageView
+        android:id="@+id/backup"
+        android:layout_width="60dp"
+        android:layout_height="100dp"
+        android:layout_alignLeft="@+id/send_message"
+        android:layout_alignTop="@+id/add_to_block"
+        android:layout_marginTop="14dp"
+        android:clickable="true"
+        android:onClick="click"
+        android:src="@drawable/phonebackup_normal" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignTop="@+id/add_to_block"
+        android:layout_marginRight="64dp"
+        android:layout_toRightOf="@+id/add_to_block"
+        android:keepScreenOn="true"
+        android:paddingRight="5dp"
+        android:src="@drawable/innerdial" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/add_to_block"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="5dp"
+        android:layout_marginBottom="42dp"
+        android:clickable="true"
+        android:onClick="click"
+        android:src="@drawable/logo_appstudioz" />
+
+</RelativeLayout>

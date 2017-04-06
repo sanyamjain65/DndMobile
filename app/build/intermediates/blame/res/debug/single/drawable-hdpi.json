@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dial_whole.png",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\drawable-hdpi\\dial_whole.png"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_message_row.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\inflate_message_row.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\send_message_item.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\send_message_item.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\time_picker.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main2.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\main2.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_message.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\schedule_message.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_callhistory.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\inflate_callhistory.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\blocklist_item.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\blocklist_item.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_list_all.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\profile_list_all.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\child.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\child.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflatefriens_row.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\inflatefriens_row.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_changer.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\profile_changer.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\date_picker.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_select.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\profile_select.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\passcode.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\passcode.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listall.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\listall.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notoblock.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\notoblock.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\block_list.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\block_list.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_allmessage_reminder.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\inflate_allmessage_reminder.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_block_list.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\add_block_list.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_history.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\show_history.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\backup.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\backup.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_toblock.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\choose_toblock.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\block_setting.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\block_setting.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\invite_friend.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\invite_friend.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\contacts.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main3.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\main3.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_tochoose.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\listitem_tochoose.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exportcontacts.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\exportcontacts.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\group.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_list1.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\layout\\profile_list1.xml"
+    }
+]

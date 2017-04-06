@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_vertical|center_horizontal"
+    android:layout_marginLeft="15dp" >
+
+    <ImageView
+        android:id="@+id/add_to_block"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="159dp"
+        android:layout_marginLeft="31dp"
+        android:scaleType="fitCenter"
+        android:scrollX="5dp"
+        android:scrollY="5dp"
+        android:clickable="true"
+        android:onClick="click"
+        android:src="@drawable/add_to_block_selector" />
+
+    <ImageView
+        android:id="@+id/block_list"
+        android:layout_width="80dp"
+        android:layout_height="100dp"
+        android:layout_above="@+id/add_to_block"
+        android:layout_alignLeft="@+id/add_to_block"
+        android:layout_alignRight="@+id/add_to_block"
+        android:paddingRight="9dp"
+        android:scaleType="fitCenter"
+        android:clickable="true"
+        android:onClick="click"
+        android:src="@drawable/view_list_selector" />
+
+    <ImageView
+        android:id="@+id/profile"
+        android:layout_width="100dp"
+        android:layout_height="78dp"
+        android:layout_alignBottom="@+id/block_list"
+        android:layout_alignLeft="@+id/block_list"
+        android:layout_marginBottom="47dp"
+        android:layout_marginLeft="59dp"
+        android:paddingTop="7dp"
+        android:scaleType="fitCenter"
+        android:clickable="true"
+        android:onClick="click"
+        android:src="@drawable/schedule_profile_selector" />
+
+    <ImageView
+        android:id="@+id/send_message"
+        android:layout_width="85dp"
+        android:layout_height="100dp"
+        android:layout_above="@+id/add_to_block"
+        android:layout_marginLeft="46dp"
+        android:layout_toRightOf="@+id/add_to_block"
+        android:paddingLeft="3dp"
+        android:paddingRight="2dp"
+        android:paddingTop="2dp"
+        android:scaleType="fitCenter"
+        android:clickable="true"
+        android:onClick="click"
+        android:src="@drawable/schedule_sms_selector" />
+
+    <ImageView
+        android:id="@+id/backup"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_alignLeft="@+id/send_message"
+        android:layout_alignTop="@+id/add_to_block"
+        android:paddingLeft="2dp"
+        android:paddingRight="4dp"
+        android:paddingTop="2dp"
+        android:scaleType="fitCenter"
+        android:clickable="true"
+        android:onClick="click"
+        android:src="@drawable/phone_backup_selector" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_alignLeft="@+id/profile"
+        android:layout_alignTop="@+id/block_list"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="50dp"
+        android:paddingLeft="5dp"
+        android:scaleType="fitCenter"
+        android:clickable="true"
+        android:onClick="click"
+        android:src="@drawable/innerdial" />
+
+
+
+</RelativeLayout>

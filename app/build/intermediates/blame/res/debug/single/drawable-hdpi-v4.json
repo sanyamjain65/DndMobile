@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\schedule_profile_selector.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\drawable-hdpi\\schedule_profile_selector.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\save.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\drawable-hdpi\\save.xml"
+    },
+    {
+        "merged": "G:\\PocketVakil\\DNDMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\view_list_selector.xml",
+        "source": "G:\\PocketVakil\\DNDMobile\\app\\src\\main\\res\\drawable-hdpi\\view_list_selector.xml"
+    }
+]
